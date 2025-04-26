@@ -1,0 +1,28 @@
+git config --global user.name "Name"
+git config --global user.email "EmailID"
+git --version
+git init
+git status
+git status
+git add testing.py
+git status
+git rm --cached testing.py
+git status
+git add .
+git status
+git commit -m "added testing files"
+git config --global user.name ""
+git config --global user.name ""
+git commit -m "added testing files"
+git config --global user.name ""
+git config --global user.email ""
+git commit -m "added testing files"
+git status
+rm testing.py
+git status
+git restore testing.py
+git status
+git remote add origin url
+git remote -v
+git remote set-url origin https://PA_token@github.com/rambo7vi/github-for-devops-workshop.git
+git push origin master
