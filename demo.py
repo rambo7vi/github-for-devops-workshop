@@ -1,3 +1,6 @@
+"""demo.py - A simple demo module."""
+
+
 def my_function():
 
     a = 5
