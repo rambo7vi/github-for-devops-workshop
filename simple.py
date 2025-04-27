@@ -1,1 +1,9 @@
-print("pushing code to github for testing purpose of branching will pull it later ")
+def hello():
+    """
+    This is simple
+    """
+
+    return "Hello bolo"
+
+
+hello()
