@@ -6,7 +6,7 @@ def hello():
     This is simple
     """
 
-    return "Hello bolo"
+    return "Hello bolo bhailog"
 
 
 hello()
